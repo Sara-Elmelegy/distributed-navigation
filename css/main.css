@@ -17,6 +17,10 @@ body {
   padding: 1rem, .75em 1em .6em;
 }
 
+header {
+  align-items: stretch;
+}
+
 nav:first-child {
 
 
