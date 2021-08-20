@@ -8,8 +8,11 @@ html {
 }
 
 body {
+  display: flex;
   font-family: sans-serif;
   line-height: 1.5;
+  background-color: #e2e2e2;
+  justify-content: space-between;
 }
 
 nav:first-child {
@@ -18,11 +21,11 @@ nav:first-child {
 }
 
 nav:nth-child(2) {
-
+color: #0074d9
 
 }
 
 nav:last-child {
-
+color: #0074d9
 
 }
