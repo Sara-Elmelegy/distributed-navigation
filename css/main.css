@@ -27,24 +27,12 @@ nav ul {
 }
 
 img {
-  sizing:1.5;
   width: 2rem;
   order: -1;
 }
 
-nav:first-child {
-
-
-}
-
-nav:nth-child {
-color: #0074d9
-
-}
-
-nav:last-child {
-color: #0074d9
-
+nav a {
+  color: #0074d9;
 }
 
 a:hover {
