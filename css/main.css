@@ -13,6 +13,8 @@ body {
   line-height: 1.5;
   background-color: #e2e2e2;
   justify-content: space-between;
+  margins: .5rem;
+  padding: 1rem, .75em 1em .6em;
 }
 
 nav:first-child {
