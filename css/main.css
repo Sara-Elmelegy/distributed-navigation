@@ -28,6 +28,7 @@ nav ul {
 
 img {
   sizing:1.5;
+  width: 2rem;
 }
 
 nav:first-child {
