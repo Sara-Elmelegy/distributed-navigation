@@ -14,13 +14,16 @@ header {
   background-color: #e2e2e2;
   justify-content: space-between;
   margin: .5rem;
-  padding: 1rem,.75em 1em .6em;
+  padding:.75em 1em .6em;
   align-items: stretch;
 }
 
-nav {
+nav ul {
   width: 33.333%;
-  align-items: baseline;
+  align-items: stretch;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-around;
 }
 
 img {
@@ -32,7 +35,7 @@ nav:first-child {
 
 }
 
-nav:nth-child(2) {
+nav:nth-child {
 color: #0074d9
 
 }
